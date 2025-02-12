@@ -1,0 +1,709 @@
+Understanding Python 
+
+MCQ Questions:
+
+1. What is Python?
+   a. High-level programming language
+   b. Low-level programming language
+   c. Assembly language
+   d. Machine language
+    Answer: a 
+
+2. Which of the following is a correct way to comment in Python?
+   a. /* Comment */
+   b. // Comment
+   c. # Comment
+   d. <!-- Comment -->
+    Answer: c 
+
+3. Which of the following data types is mutable in Python?
+   a. int
+   b. str
+   c. list
+   d. tuple
+    Answer: c 
+
+4. What is the purpose of the `pass` statement in Python?
+   a. To terminate a loop
+   b. To define an empty class or function
+   c. To print a message
+   d. To skip an iteration in a loop
+    Answer: b 
+
+5. Which of the following is a correct way to create an empty set in Python?
+   a. set()
+   b. {}
+   c. new set()
+   d. set([])
+    Answer: a 
+
+6. What is the output of `3 * 3.0` in Python?
+   a. 9
+   b. 9.0
+   c. 6
+   d. 6.0
+    Answer: b 
+
+7. In Python, how do you import a module named "example"?
+   a. import example
+   b. include example
+   c. use example
+   d. from example import *
+    Answer: a 
+
+8. What is the purpose of the `__init__` method in a Python class?
+   a. To initialize class variables
+   b. To define the constructor
+   c. To create an instance of the class
+   d. To destroy the object
+    Answer: b 
+
+9. What is the difference between `==` and `is` in Python?
+   a. They are interchangeable
+   b. `==` compares values, `is` compares identities
+   c. `==` compares identities, `is` compares values
+   d. Both are used for identity comparison
+    Answer: b 
+
+10. Which of the following is used to open a file in Python?
+    a. open_file()
+    b. read_file()
+    c. open()
+    d. read()
+     Answer: c 
+
+11. What does the `len()` function return when called on a string?
+    a. Number of characters
+    b. Number of words
+    c. Number of lines
+    d. None of the above
+     Answer: a 
+
+12. In Python, how do you check if a key is present in a dictionary?
+    a. key in dict
+    b. dict.has_key(key)
+    c. dict.contains(key)
+    d. contains(dict, key)
+     Answer: a 
+
+13. Which of the following is used to handle exceptions in Python?
+    a. try-except
+    b. if-else
+    c. switch-case
+    d. catch-throw
+     Answer: a 
+
+14. What is the purpose of the `__str__` method in Python?
+    a. To convert an object to a string
+    b. To define a string variable
+    c. To concatenate strings
+    d. To print the object
+     Answer: a 
+
+15. What does the `strip()` method do in Python?
+    a. Removes leading and trailing spaces
+    b. Removes characters from the middle of a string
+    c. Converts the string to uppercase
+    d. Splits the string into a list
+     Answer: a 
+
+16. Which of the following is a valid way to create a tuple in Python?
+    a. (1, 2, 3)
+    b. {1, 2, 3}
+    c. [1, 2, 3]
+    d. 1, 2, 3
+     Answer: a 
+
+17. How do you round a number to the nearest integer in Python?
+    a. round_up()
+    b. round_down()
+    c. round()
+    d. floor()
+     Answer: c 
+
+18. What is the output of `2   3` in Python?
+    a. 5
+    b. 6
+    c. 8
+    d. 9
+     Answer: c 
+
+19. In Python, what does the `ord()` function do?
+    a. Returns the ASCII value of a character
+    b. Returns the character at an ASCII value
+    c. Converts a string to lowercase
+    d. Converts a string to uppercase
+     Answer: a 
+
+20. What is the purpose of the `global` keyword in Python?
+    a. To declare a global variable
+    b. To define a global function
+    c. To access a local variable
+    d. To import a global module
+     Answer: a 
+
+21. What is the purpose of the `super()` function in Python?
+    a. To call a superclass method
+    b. To create a new instance of a class
+    c. To access a global variable
+    d. To define a superclass
+     Answer: a 
+
+22. Which of the following is a correct way to check if a variable is of a certain type in Python?
+    a. typeOf()
+    b. checkType()
+    c. isinstance()
+    d. typeof()
+     Answer: c 
+
+23. What is the purpose of the `map()` function in Python?
+    a. To create a map data structure
+    b. To apply a function to all items in an iterable
+    c. To return a list of keys in a dictionary
+    d. To filter elements in a list
+     Answer: b 
+
+24. In Python, what does the `+=` operator do?
+    a. Adds two numbers
+    b. Concatenates two strings
+    c. Increases the value of a variable by a specified amount
+    d. Decreases the value of a variable by a specified amount
+     Answer: c 
+
+25. What is the purpose of the `zip()` function in Python?
+    a. To zip a file
+    b. To compress data
+    c. To create a zip archive
+    d. To combine iterables into tuples
+     Answer: d 
+
+26. How do you define a constant variable in Python?
+    a. Constants are not supported in Python
+    b. Using the `const` keyword
+    c. Using all uppercase letters for the variable name
+    d. Using the `final` keyword
+     Answer: c 
+
+27. What does the `join()` method do in Python?
+    a. Joins two strings together
+    b. Joins elements in a list into a string
+    c. Joins elements in a tuple into a string
+    d. Joins characters in a string
+     Answer: b 
+
+28. What is the purpose of the `filter()` function in Python?
+    a. To
+
+ filter elements in a list based on a condition
+    b. To create a filter for images
+    c. To remove elements from a list
+    d. To filter elements in a dictionary
+     Answer: a 
+
+29. How do you create a virtual environment in Python?
+    a. create_env
+    b. virtualenv
+    c. venv
+    d. env_create
+     Answer: c 
+
+30. What does the `chr()` function do in Python?
+    a. Returns the character at an ASCII value
+    b. Converts a string to lowercase
+    c. Converts a string to uppercase
+    d. Returns the ASCII value of a character
+     Answer: a 
+
+31. In Python, how do you convert a string to a list of characters?
+    a. split()
+    b. to_list()
+    c. list()
+    d. char_list()
+     Answer: c 
+
+32. What is the purpose of the `max()` function in Python?
+    a. Returns the maximum value in a list
+    b. Returns the minimum value in a list
+    c. Returns the average value of a list
+    d. Returns the sum of a list
+     Answer: a 
+
+33. How do you convert a floating-point number to an integer in Python?
+    a. to_int()
+    b. int()
+    c. convert_int()
+    d. float_to_int()
+     Answer: b 
+
+34. What is the purpose of the `enumerate()` function in Python?
+    a. To create an enumeration data type
+    b. To iterate over a sequence while keeping track of the index
+    c. To count the number of elements in a sequence
+    d. To enumerate all elements in a sequence
+     Answer: b 
+
+35. Which of the following is a correct way to open a file in binary mode in Python?
+    a. open_file("filename", "r")
+    b. open("filename", "binary")
+    c. open("filename", "rb")
+    d. open_file("filename", "binary")
+     Answer: c 
+
+36. What is the purpose of the `staticmethod` decorator in Python?
+    a. To define a static method in a class
+    b. To create a decorator for methods
+    c. To make a method private
+    d. To define a class method
+     Answer: a 
+
+37. In Python, what does the `repr()` function do?
+    a. Returns a string representation of an object
+    b. Converts a string to lowercase
+    c. Converts a string to uppercase
+    d. Returns the ASCII value of a character
+     Answer: a 
+
+38. What is the purpose of the `*args` in a function definition in Python?
+    a. To specify default arguments
+    b. To allow a variable number of positional arguments
+    c. To pass keyword arguments
+    d. To unpack a tuple into arguments
+     Answer: b 
+
+39. How do you convert a string to lowercase in Python?
+    a. str.lower()
+    b. to_lower()
+    c. lower_case()
+    d. convert_lower()
+     Answer: a 
+
+40. What is the purpose of the `min()` function in Python?
+    a. Returns the maximum value in a list
+    b. Returns the minimum value in a list
+    c. Returns the average value of a list
+    d. Returns the sum of a list
+     Answer: b 
+
+41. How do you check if a number is an integer in Python?
+    a. is_integer()
+    b. int_check()
+    c. isinstance()
+    d. check_int()
+     Answer: c 
+
+42. What does the `any()` function do in Python?
+    a. Checks if all elements in an iterable are true
+    b. Checks if any element in an iterable is true
+    c. Returns the sum of all elements in an iterable
+    d. Returns the average of all elements in an iterable
+     Answer: b 
+
+43. What is the purpose of the `os` module in Python?
+    a. To perform operating system-related tasks
+    b. To create graphical user interfaces
+    c. To manipulate images
+    d. To work with mathematical operations
+     Answer: a 
+
+44. How do you remove an item from a list in Python?
+    a. list.remove(item)
+    b. list.delete(item)
+    c. list.pop(item)
+    d. list.discard(item)
+     Answer: a 
+
+45. What is the purpose of the `sorted()` function in Python?
+    a. To sort elements in a list in descending order
+    b. To sort elements in a list in ascending order
+    c. To reverse the order of elements in a list
+    d. To shuffle the elements in a list
+     Answer: b 
+
+46. How do you check if a string ends with a specific substring in Python?
+    a. string.ends_with(substring)
+    b. endsWith(string, substring)
+    c. string.endswith(substring)
+    d. check_end(string, substring)
+     Answer: c 
+
+47. What is the purpose of the `del` statement in Python?
+    a. To delete a file
+    b. To delete a variable or object
+    c. To remove an element from a list
+    d. To delete a module
+     Answer: b 
+
+48. How do you calculate the length of a list in Python?
+    a. size(list)
+    b. length(list)
+    c. len(list)
+    d. count(list)
+     Answer: c 
+
+49. What does the `isalnum()` method do in Python?
+    a. Checks if all characters in a string are alphanumeric
+    b. Checks if a string is entirely numeric
+    c. Checks if a string is entirely alphabetic
+    d. Checks if a string contains only lowercase letters
+     Answer: a 
+
+50. What is the purpose of the `next()` function in Python?
+    a. Returns the next element in an iterable
+    b. Advances the iterator to the next position
+    c. Returns the next character in a string
+    d. Skips the next element in an iterable
+     Answer: a 
+
+51. In Python, what does the `continue` statement do?
+    a. Exits the loop
+    b. Skips the rest of the code in the current iteration and moves to the next iteration
+    c. Jumps to a specific line in the code
+    d. Breaks out of the loop
+     Answer: b 
+
+52. What is the purpose of the `__doc__` attribute in Python?
+    a. To store documentation for a module
+    b. To store documentation for a class
+    c. To store documentation for a function
+    d. To store documentation for a variable
+     Answer: c 
+
+53. How do you convert a list to a set in Python?
+    a. set(list)
+    b. list.to_set()
+    c. to_set(list)
+    d. convert_set(list)
+     Answer: a 
+
+54. What is the purpose of the `isinstance()` function in Python?
+    a. To check if a variable is an instance of a class
+    b. To check if a
+
+ variable is of a specific type
+    c. To check if a variable is iterable
+    d. To check if a variable is a string
+     Answer: a 
+
+55. How do you concatenate two dictionaries in Python?
+    a. dict1.concat(dict2)
+    b. dict1 + dict2
+    c. dict1.merge(dict2)
+    d. dict1.update(dict2)
+     Answer: d 
+
+56. What is the purpose of the `len()` function in Python?
+    a. Returns the length of a string
+    b. Returns the length of a list
+    c. Returns the length of a tuple
+    d. All of the above
+     Answer: d 
+
+57. How do you convert a tuple to a list in Python?
+    a. tuple.to_list()
+    b. list(tuple)
+    c. convert_list(tuple)
+    d. list(tuple())
+     Answer: b 
+
+58. What is the purpose of the `ord()` function in Python?
+    a. Returns the character at an ASCII value
+    b. Returns the ASCII value of a character
+    c. Converts a string to lowercase
+    d. Converts a string to uppercase
+     Answer: b 
+
+59. What is the purpose of the `sum()` function in Python?
+    a. Returns the sum of all elements in a list
+    b. Returns the sum of all elements in a tuple
+    c. Returns the sum of all elements in a dictionary
+    d. Returns the sum of all elements in a set
+     Answer: a 
+
+60. How do you check if a number is odd in Python?
+    a. is_odd()
+    b. odd()
+    c. number % 2 == 1
+    d. check_odd()
+     Answer: c 
+
+61. What does the `extend()` method do in Python?
+    a. Extends the length of a list
+    b. Adds an element to the end of a list
+    c. Combines two lists into one
+    d. Creates a copy of a list
+     Answer: c 
+
+62. What is the purpose of the `ord()` function in Python?
+    a. Returns the character at an ASCII value
+    b. Returns the ASCII value of a character
+    c. Converts a string to lowercase
+    d. Converts a string to uppercase
+     Answer: b 
+
+63. How do you remove all occurrences of an element from a list in Python?
+    a. list.remove_all(element)
+    b. list.remove(element)
+    c. list.delete(element)
+    d. list.remove_all(element)
+     Answer: b 
+
+64. What is the purpose of the `round()` function in Python?
+    a. Rounds a floating-point number to the nearest integer
+    b. Rounds a floating-point number to a specified number of decimal places
+    c. Rounds a list of numbers to the nearest integer
+    d. Rounds a list of numbers to a specified number of decimal places
+     Answer: b 
+
+65. How do you check if a string is empty in Python?
+    a. string.empty()
+    b. string.is_empty()
+    c. not string
+    d. len(string) == 0
+     Answer: d 
+
+66. What is the purpose of the `type()` function in Python?
+    a. Returns the type of an object
+    b. Checks if an object is of a specific type
+    c. Converts an object to a specific type
+    d. Defines a custom data type
+     Answer: a 
+
+67. How do you create a shallow copy of a list in Python?
+    a. list.copy()
+    b. list.clone()
+    c. copy(list)
+    d. clone(list)
+     Answer: a 
+
+68. What is the purpose of the `sorted()` function in Python?
+    a. To sort elements in a list in descending order
+    b. To sort elements in a list in ascending order
+    c. To reverse the order of elements in a list
+    d. To shuffle the elements in a list
+     Answer: b 
+
+69. How do you convert a list of strings to a single string in Python?
+    a. " ".join(list)
+    b. "".join(list)
+    c. join(list, " ")
+    d. join(list)
+     Answer: a 
+
+70. What is the purpose of the `split()` method in Python?
+    a. Splits a string into a list of characters
+    b. Splits a string into a list of words
+    c. Splits a string into a list of lines
+    d. Splits a string into a list of substrings based on a delimiter
+     Answer: d 
+
+71. How do you check if a number is a multiple of another number in Python?
+    a. is_multiple()
+    b. multiple_of()
+    c. number % other_number == 0
+    d. check_multiple()
+     Answer: c 
+
+72. What is the purpose of the `zip()` function in Python?
+    a. To zip a file
+    b. To compress data
+    c. To create a zip archive
+    d. To combine iterables into tuples
+     Answer: d 
+
+73. How do you remove all elements from a list in Python?
+    a. list.clear()
+    b. list.remove_all()
+    c. list.delete_all()
+    d. list.pop_all()
+     Answer: a 
+
+74. What is the purpose of the `re` module in Python?
+    a. To work with regular expressions
+    b. To perform file I/O operations
+    c. To create random numbers
+    d. To interact with the operating system
+     Answer: a 
+
+75. How do you convert a string to uppercase in Python?
+    a. str.upper()
+    b. to_upper()
+    c. uppercase(str)
+    d. convert_upper()
+     Answer: a 
+
+76. What is the purpose of the `next()` function in Python?
+    a. Returns the next element in an iterable
+    b. Advances the iterator to the next position
+    c. Returns the next character in a string
+    d. Skips the next element in an iterable
+     Answer: a 
+
+77. How do you check if a string contains a specific substring in Python?
+    a. string.contains(substring)
+    b. substring in string
+    c. contains(substring, string)
+    d. check_substring(string, substring)
+     Answer: b 
+
+78. What is the purpose of the `any()` function in Python?
+    a. Checks if all elements in an iterable are true
+    b. Checks if any element in an iterable is true
+    c. Returns the sum of all elements in an iterable
+    d. Returns the average of all elements in an iterable
+     Answer: b 
+
+79. How do you reverse a list in Python?
+    a. list.reverse()
+    b. reverse(list)
+    c. list.reversed()
+    d. reversed(list)
+     Answer: a 
+
+80. What is the purpose of the `isalpha()` method in Python?
+    a. Checks if a string is entirely alphabetic
+    b. Checks if all characters in a string are alphanumeric
+    c. Checks if a string is entirely numeric
+
+
+    d. Checks if a string contains only lowercase letters
+     Answer: a 
+
+81. How do you check if a variable is defined in Python?
+    a. var.is_defined()
+    b. is_defined(var)
+    c. defined(var)
+    d. var is not None
+     Answer: d 
+
+82. What is the purpose of the `os.path` module in Python?
+    a. To perform operations on the file system
+    b. To manipulate images
+    c. To create graphical user interfaces
+    d. To work with regular expressions
+     Answer: a 
+
+83. How do you convert a number to a string in Python?
+    a. str(number)
+    b. number.to_string()
+    c. convert_string(number)
+    d. string(number)
+     Answer: a 
+
+84. What does the `isdigit()` method do in Python?
+    a. Checks if a string is entirely numeric
+    b. Checks if a string is entirely alphabetic
+    c. Checks if a string contains only digits
+    d. Checks if a string is empty
+     Answer: c 
+
+85. What is the purpose of the `max()` function in Python?
+    a. Returns the maximum value in a list
+    b. Returns the minimum value in a list
+    c. Returns the average value of a list
+    d. Returns the sum of a list
+     Answer: a 
+
+86. How do you check if a string starts with a specific substring in Python?
+    a. string.starts_with(substring)
+    b. startsWith(string, substring)
+    c. string.startswith(substring)
+    d. check_start(string, substring)
+     Answer: c 
+
+87. What is the purpose of the `chr()` function in Python?
+    a. Returns the character at an ASCII value
+    b. Converts a string to lowercase
+    c. Converts a string to uppercase
+    d. Returns the ASCII value of a character
+     Answer: a 
+
+88. How do you convert a list of integers to a single integer in Python?
+    a. int(list)
+    b. int("".join(map(str, list)))
+    c. convert_int(list)
+    d. int("".join(list))
+     Answer: b 
+
+89. What is the purpose of the `is` keyword in Python?
+    a. To compare values
+    b. To compare identities
+    c. To check if a variable is defined
+    d. To check if a variable is of a specific type
+     Answer: b 
+
+90. How do you check if a string is a palindrome in Python?
+    a. string.is_palindrome()
+    b. is_palindrome(string)
+    c. string == string[::-1]
+    d. check_palindrome(string)
+     Answer: c 
+
+91. What does the `remove()` method do in Python?
+    a. Removes the last element from a list
+    b. Removes the first occurrence of a specified element from a list
+    c. Removes all occurrences of a specified element from a list
+    d. Removes an element at a specific index from a list
+     Answer: b 
+
+92. What is the purpose of the `ceil()` function in Python?
+    a. Rounds a number up to the nearest integer
+    b. Rounds a number down to the nearest integer
+    c. Returns the smallest integer greater than or equal to a number
+    d. Returns the largest integer less than or equal to a number
+     Answer: c 
+
+93. How do you check if a variable is a string in Python?
+    a. is_str()
+    b. isinstance()
+    c. check_str()
+    d. type()
+     Answer: b 
+
+94. What is the purpose of the `hash()` function in Python?
+    a. To generate a random hash value
+    b. To hash a password
+    c. To check if two objects are equal
+    d. To create a hash table
+     Answer: c 
+
+95. How do you convert a string to a floating-point number in Python?
+    a. str.to_float()
+    b. float(str)
+    c. convert_float(str)
+    d. to_float(str)
+     Answer: b 
+
+96. What is the purpose of the `all()` function in Python?
+    a. Checks if all elements in an iterable are true
+    b. Checks if any element in an iterable is true
+    c. Returns the sum of all elements in an iterable
+    d. Returns the average of all elements in an iterable
+     Answer: a 
+
+97. How do you create a deep copy of a list in Python?
+    a. list.clone()
+    b. clone(list)
+    c. copy.deepcopy(list)
+    d. list.deep_copy()
+     Answer: c 
+
+98. What is the purpose of the `hex()` function in Python?
+    a. Converts a number to hexadecimal
+    b. Converts a hexadecimal number to decimal
+    c. Converts a string to hexadecimal
+    d. Converts a hexadecimal string to decimal
+     Answer: a 
+
+99. How do you check if a number is positive in Python?
+    a. is_positive()
+    b. positive()
+    c. number > 0
+    d. check_positive()
+     Answer: c 
+
+100. What is the purpose of the `eval()` function in Python?
+     a. Evaluates a mathematical expression in the form of a string
+     b. Evaluates a boolean expression
+     c. Evaluates a regular expression
+     d. Evaluates a lambda function
+      Answer: a 

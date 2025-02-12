@@ -1,0 +1,797 @@
+general programming and computer science concepts.
+
+ 1. What is the primary purpose of an operating system? 
+   a. Run applications
+   b. Manage hardware resources
+   c. Play multimedia files
+   d. Create user interfaces
+
+    Answer: b. Manage hardware resources 
+
+ 2. What is the difference between RAM and ROM? 
+   a. RAM is read-only, and ROM is read-write
+   b. RAM is volatile, and ROM is non-volatile
+   c. RAM is faster than ROM
+   d. ROM is used for temporary storage
+
+    Answer: b. RAM is volatile, and ROM is non-volatile 
+
+ 3. What does HTML stand for? 
+   a. Hyper Text Markup Language
+   b. High-Level Text Modeling Language
+   c. Hyperlink and Text Management Language
+   d. Human Task Management Language
+
+    Answer: a. Hyper Text Markup Language 
+
+ 4. Which data structure follows the Last In, First Out (LIFO) principle? 
+   a. Queue
+   b. Stack
+   c. Linked List
+   d. Tree
+
+    Answer: b. Stack 
+
+ 5. What is the purpose of a firewall in computer networks? 
+   a. Speed up internet connection
+   b. Block unauthorized access
+   c. Enhance network performance
+   d. Install new software
+
+    Answer: b. Block unauthorized access 
+
+ 6. In binary, what does the digit '1' represent? 
+   a. True
+   b. On
+   c. Yes
+   d. Both b and c
+
+    Answer: d. Both b and c 
+
+ 7. What is the function of an algorithm? 
+   a. Execute tasks
+   b. Solve problems step by step
+   c. Store data
+   d. Manage user interfaces
+
+    Answer: b. Solve problems step by step 
+
+ 8. Which of the following is NOT a programming language? 
+   a. Python
+   b. Java
+   c. SQL
+   d. HTML
+
+    Answer: d. HTML 
+
+ 9. What is the purpose of the 'Ctrl + Z' keyboard shortcut? 
+   a. Cut
+   b. Undo
+   c. Copy
+   d. Paste
+
+    Answer: b. Undo 
+
+ 10. What is the role of a compiler in software development? 
+    a. Execute code line by line
+    b. Convert high-level code to machine code
+    c. Debug code
+    d. Manage databases
+
+     Answer: b. Convert high-level code to machine code 
+
+ 11. Which of the following is a primary key in a relational database? 
+    a. Foreign key
+    b. Unique key
+    c. Index key
+    d. Composite key
+
+     Answer: b. Unique key 
+
+ 12. What is the purpose of a DNS (Domain Name System)? 
+    a. Encrypt data transmission
+    b. Convert domain names to IP addresses
+    c. Manage email communication
+    d. Control access to websites
+
+     Answer: b. Convert domain names to IP addresses 
+
+ 13. What does CPU stand for? 
+    a. Central Processing Unit
+    b. Computer Processing Unit
+    c. Central Program Unit
+    d. Computer Program Unit
+
+     Answer: a. Central Processing Unit 
+
+ 14. Which of the following is a fundamental data type in most programming languages? 
+    a. String
+    b. Array
+    c. Class
+    d. Integer
+
+     Answer: d. Integer 
+
+ 15. What is the purpose of the 'if' statement in programming? 
+    a. Loop through code
+    b. Define a function
+    c. Make decisions based on conditions
+    d. Print output to the console
+
+     Answer: c. Make decisions based on conditions 
+
+ 16. Which networking protocol is used for sending emails? 
+    a. FTP (File Transfer Protocol)
+    b. SMTP (Simple Mail Transfer Protocol)
+    c. HTTP (Hypertext Transfer Protocol)
+    d. TCP/IP (Transmission Control Protocol/Internet Protocol)
+
+     Answer: b. SMTP (Simple Mail Transfer Protocol) 
+
+ 17. What is the purpose of a version control system like Git? 
+    a. Manage database connections
+    b. Track changes in code and collaborate on projects
+    c. Create user interfaces
+    d. Encrypt data during transmission
+
+     Answer: b. Track changes in code and collaborate on projects 
+
+ 18. What is the significance of the term '404' in web development? 
+    a. Successful request
+    b. Server error
+    c. Page not found
+    d. Forbidden access
+
+     Answer: c. Page not found 
+
+ 19. Which sorting algorithm has the best average-case time complexity? 
+    a. Bubble Sort
+    b. Insertion Sort
+    c. Quick Sort
+    d. Selection Sort
+
+     Answer: c. Quick Sort 
+
+ 20. What is the purpose of the 'else' statement in programming? 
+    a. Define a function
+    b. Handle exceptions
+    c. Specify alternative code to be executed
+    d. Create loops
+
+     Answer: c. Specify alternative code to be executed 
+
+ 21. What is the function of a router in a computer network? 
+    a. Connect devices within a local network
+    b. Block malicious websites
+    c. Forward data between different networks
+    d. Manage printer connections
+
+     Answer: c. Forward data between different networks 
+
+ 22. Which of the following is a key characteristic of object-oriented programming (OOP)? 
+    a. Procedural approach
+    b. Code redundancy
+    c. Encapsulation
+    d. Limited code reusability
+
+     Answer: c. Encapsulation 
+
+ 23. What is the purpose of a cache in computer systems? 
+    a. Increase storage capacity
+    b. Speed up data access
+    c. Encrypt data
+    d. Manage network connections
+
+     Answer: b. Speed up data access 
+
+ 24. What does the acronym URL stand for? 
+    a. Uniform Resource Locator
+    b. Universal Record Locator
+    c. Unified Resource Locator
+    d. User Registration Link
+
+     Answer: a. Uniform Resource Locator 
+
+ 25. What is the role of an index in a database? 
+    a. Encrypt data
+    b. Optimize query performance
+    c. Manage user authentication
+    d. Execute stored procedures
+
+     Answer: b. Optimize query performance 
+
+ 26. Which type of programming language is Java? 
+    a. Low-level language
+    b. High-level language
+    c. Assembly language
+    d. Machine language
+
+     Answer: b. High-level language 
+
+ 27. What is the purpose of the 'break' statement in loop structures? 
+    a. End the program
+    b. Skip the next iteration
+    c. Exit the loop prematurely
+    d. Pause program execution
+
+     Answer: c. Exit the loop prematurely 
+
+ 28. In the context of databases, what is normalization? 
+    a. Increasing redundancy in data
+    b. Reducing redundancy in data
+    c. Deleting data
+    d. Encrypting data
+
+     Answer: b. Reducing redundancy in data 
+
+ 29. What is the main advantage of using a virtual machine? 
+    a. Improved hardware performance
+    b. Direct access to physical resources
+    c. Portability and isolation
+    d. Enhanced graphical user interfaces
+
+     Answer: c. Portability and isolation 
+
+ 30. What is the purpose of the 'try...catch' block in exception handling? 
+    a. Define a function
+    b. Handle errors and exceptions
+    c. Create conditional statements
+    d. Optimize code performance
+
+     Answer: b. Handle errors and exceptions 
+
+ 31. What is the function of the 'grep' command in Unix/Linux? 
+    a. Copy files
+    b. Search for patterns in text
+    c. Delete directories
+    d. Rename files
+
+     Answer: b. Search for patterns in text 
+
+ 32. Which of the following is a key characteristic of a linked list? 
+    a. Random access
+    b. Sequential access
+    c. Fixed size
+    d. Dynamic size
+
+     Answer: d. Dynamic size 
+
+ 33. What is the purpose of the 'do-while' loop in programming? 
+    a. Execute code repeatedly until a condition is false
+    b. Execute code at least once, then repeat based on a condition
+    c. Execute code only once
+    d. Create infinite loops
+
+     Answer: b. Execute code at least once, then repeat based on a condition 
+
+ 34. Which of the following is a key feature of the Agile software development methodology? 
+    a. Extensive documentation
+    b. Sequential phases
+    c. Fixed project scope
+    d. Iterative and incremental development
+
+     Answer: d. Iterative and incremental development 
+
+ 35. What is the purpose of the 'AND' operator in boolean logic? 
+    a. Combine conditions, returns true if any condition is true
+    b. Combine conditions, returns true if all conditions are true
+    c. Invert a condition
+    d. Skip a condition
+
+     Answer: b. Combine conditions, returns true if all conditions are true 
+
+ 36. Which of the following is an advantage of using a NoSQL database? 
+    a. Strict schema enforcement
+    b. ACID compliance
+    c. Scalability for large datasets
+    d. Limited data model flexibility
+
+     Answer: c. Scalability for large datasets 
+
+ 37. What is the purpose of the 'chmod' command in Unix/Linux? 
+    a. Change file ownership
+    b. Change file permissions
+    c. Change file extension
+    d. Change file location
+
+     Answer: b. Change file permissions 
+
+ 38. What is the primary purpose of a VPN (Virtual Private Network)? 
+    a. Increase internet speed
+    b. Securely connect to a private network over the internet
+    c. Manage email communication
+    d. Enhance graphical user interfaces
+
+     Answer: b. Securely connect to a private network over the internet 
+
+ 39. Which type of database relationship is represented by a foreign key? 
+    a. One-to-One
+    b. One-to-Many
+    c. Many-to-One
+    d. Many-to-Many
+
+     Answer: d. Many-to-Many 
+
+ 40. What is the purpose of the 'sizeof' operator in C/C++? 
+    a. Calculate the size of a file
+    b. Determine the size of an array
+    c. Find the size of a data type
+    d. Specify the size of a variable
+
+     Answer: c. Find the size of a data type 
+ 41. What is the function of a DNS resolver? 
+    a. Manage domain registration
+    b. Convert IP addresses to domain names
+    c. Resolve domain names to IP addresses
+    d. Encrypt data transmission
+
+     Answer: c. Resolve domain names to IP addresses 
+
+ 42. What is the purpose of the 'static' keyword in programming languages like C and C++? 
+    a. Declare a constant variable
+    b. Specify a variable's scope as local
+    c. Define a static method
+    d. Preserve the value of a variable between function calls
+
+     Answer: d. Preserve the value of a variable between function calls 
+
+ 43. Which type of software testing focuses on the behavior of a complete software application? 
+    a. Unit testing
+    b. Integration testing
+    c. System testing
+    d. Acceptance testing
+
+     Answer: c. System testing 
+
+ 44. What does RAID stand for in data storage? 
+    a. Random Access Integrated Drive
+    b. Redundant Array of Independent Disks
+    c. Rapid Access and Integrated Data
+    d. Reliable Allocation of Independent Drives
+
+     Answer: b. Redundant Array of Independent Disks 
+
+ 45. What is the purpose of a proxy server in a network? 
+    a. Manage email communication
+    b. Block malicious websites
+    c. Speed up internet connection
+    d. Act as an intermediary between clients and servers
+
+     Answer: d. Act as an intermediary between clients and servers 
+
+ 46. Which of the following is a key characteristic of a hash function? 
+    a. One-way transformation
+    b. Reversibility
+    c. Sorting elements
+    d. Dynamic resizing
+
+     Answer: a. One-way transformation 
+
+ 47. What is the primary function of an HTTP cookie? 
+    a. Store data on the server
+    b. Track user sessions and preferences
+    c. Manage database connections
+    d. Execute server-side code
+
+     Answer: b. Track user sessions and preferences 
+
+ 48. In the OSI model, which layer is responsible for data compression and encryption? 
+    a. Transport layer
+    b. Presentation layer
+    c. Application layer
+    d. Data link layer
+
+     Answer: b. Presentation layer 
+
+ 49. What is the purpose of the 'throw' statement in exception handling? 
+    a. Handle errors and exceptions
+    b. Raise a custom exception
+    c. Terminate the program
+    d. Print a warning message
+
+     Answer: b. Raise a custom exception 
+
+ 50. Which type of algorithm is commonly used for searching in a sorted array? 
+    a. Linear search
+    b. Binary search
+    c. Bubble sort
+    d. Quick sort
+
+     Answer: b. Binary search 
+ 51. What is the purpose of the 'chmod' command in Unix/Linux? 
+    a. Change file ownership
+    b. Change file permissions
+    c. Change file extension
+    d. Change file location
+
+     Answer: b. Change file permissions 
+
+ 52. What is the difference between TCP (Transmission Control Protocol) and UDP (User Datagram Protocol)? 
+    a. TCP is connectionless, while UDP is connection-oriented
+    b. TCP is faster than UDP
+    c. TCP provides reliable, ordered communication, while UDP does not guarantee reliability
+    d. UDP is primarily used for web browsing, while TCP is used for video streaming
+
+     Answer: c. TCP provides reliable, ordered communication, while UDP does not guarantee reliability 
+
+ 53. Which of the following is an example of a symmetric encryption algorithm? 
+    a. RSA
+    b. AES (Advanced Encryption Standard)
+    c. ECC (Elliptic Curve Cryptography)
+    d. SHA-256
+
+     Answer: b. AES (Advanced Encryption Standard) 
+
+ 54. What is the purpose of the 'grep' command in Unix/Linux? 
+    a. Copy files
+    b. Search for patterns in text
+    c. Delete directories
+    d. Rename files
+
+     Answer: b. Search for patterns in text 
+
+ 55. In the context of databases, what is an ACID property? 
+    a. A language feature in SQL
+    b. A transaction management characteristic (Atomicity, Consistency, Isolation, Durability)
+    c. A data type in relational databases
+    d. An encryption algorithm
+
+     Answer: b. A transaction management characteristic (Atomicity, Consistency, Isolation, Durability) 
+
+ 56. What is the purpose of the 'finally' block in exception handling? 
+    a. Define a function
+    b. Handle errors and exceptions
+    c. Execute code regardless of whether an exception occurred or not
+    d. Skip a specific code block
+
+     Answer: c. Execute code regardless of whether an exception occurred or not 
+
+ 57. Which data structure is used for implementing a LIFO (Last In, First Out) order? 
+    a. Queue
+    b. Stack
+    c. Linked List
+    d. Tree
+
+     Answer: b. Stack 
+
+ 58. What does the term "BIOS" stand for in computing? 
+    a. Basic Input Output System
+    b. Binary Input Output System
+    c. Basic Internet Operating System
+    d. Binary Internet Operating System
+
+     Answer: a. Basic Input Output System 
+
+ 59. What is the purpose of a VPN (Virtual Private Network)? 
+    a. Increase internet speed
+    b. Securely connect to a private network over the internet
+    c. Manage email communication
+    d. Enhance graphical user interfaces
+
+     Answer: b. Securely connect to a private network over the internet 
+
+ 60. Which of the following is a key characteristic of a switch in networking? 
+    a. Operates at the application layer
+    b. Forwards data based on MAC addresses
+    c. Connects different networks
+    d. Performs routing functions
+
+     Answer: b. Forwards data based on MAC addresses 
+ 61. What is the purpose of the 'else if' statement in programming? 
+    a. Create a loop
+    b. Define a function
+    c. Specify alternative conditions
+    d. Handle exceptions
+
+     Answer: c. Specify alternative conditions 
+
+ 62. In computer graphics, what does RGB stand for? 
+    a. Red, Green, Blue
+    b. Random Graphics Buffer
+    c. Resolution Graphics Base
+    d. Range of Graphics Brightness
+
+     Answer: a. Red, Green, Blue 
+
+ 63. What is the role of a CDN (Content Delivery Network) in web development? 
+    a. Create dynamic web content
+    b. Manage databases
+    c. Distribute web content to multiple servers for faster access
+    d. Encrypt data transmission
+
+     Answer: c. Distribute web content to multiple servers for faster access 
+
+ 64. Which of the following is a key characteristic of a microservices architecture? 
+    a. Monolithic structure
+    b. Single database for all services
+    c. Independent deployability
+    d. Tight coupling between components
+
+     Answer: c. Independent deployability 
+
+ 65. What is the purpose of a CDN (Content Delivery Network) in web development? 
+    a. Create dynamic web content
+    b. Manage databases
+    c. Distribute web content to multiple servers for faster access
+    d. Encrypt data transmission
+
+     Answer: c. Distribute web content to multiple servers for faster access 
+
+ 66. What does the term "latency" refer to in computer networks? 
+    a. Network bandwidth
+    b. Transmission speed
+    c. Delay in data transfer
+    d. Number of devices connected
+
+     Answer: c. Delay in data transfer 
+
+ 67. Which of the following is NOT a fundamental programming paradigm? 
+    a. Procedural programming
+    b. Object-oriented programming
+    c. Functional programming
+    d. Linear programming
+
+     Answer: d. Linear programming 
+
+ 68. What is the purpose of the 'mv' command in Unix/Linux? 
+    a. Create a new directory
+    b. Move or rename files and directories
+    c. View file content
+    d. Copy files
+
+     Answer: b. Move or rename files and directories 
+
+ 69. Which protocol is commonly used for secure communication over the web? 
+    a. FTP (File Transfer Protocol)
+    b. HTTP (Hypertext Transfer Protocol)
+    c. HTTPS (Hypertext Transfer Protocol Secure)
+    d. SMTP (Simple Mail Transfer Protocol)
+
+     Answer: c. HTTPS (Hypertext Transfer Protocol Secure) 
+
+ 70. What is the purpose of the 'grep' command in Unix/Linux? 
+    a. Copy files
+    b. Search for patterns in text
+    c. Delete directories
+    d. Rename files
+
+     Answer: b. Search for patterns in text 
+ 71. What is the purpose of the 'NaN' (Not a Number) value in programming? 
+    a. Representing undefined or unrepresentable values in floating-point calculations
+    b. Signifying a network error
+    c. Denoting the end of an array
+    d. Indicating a null value
+
+     Answer: a. Representing undefined or unrepresentable values in floating-point calculations 
+
+ 72. What is the primary purpose of a web browser's 'cache'? 
+    a. Storing sensitive user information
+    b. Improving website performance by storing previously loaded resources
+    c. Encrypting data transmission
+    d. Blocking malicious websites
+
+     Answer: b. Improving website performance by storing previously loaded resources 
+
+ 73. In computer networks, what is a 'subnet mask' used for? 
+    a. Encrypting data transmission
+    b. Identifying the network portion of an IP address
+    c. Preventing unauthorized access to a network
+    d. Managing email communication
+
+     Answer: b. Identifying the network portion of an IP address 
+
+ 74. What is the purpose of the 'finally' block in exception handling? 
+    a. Define a function
+    b. Handle errors and exceptions
+    c. Execute code regardless of whether an exception occurred or not
+    d. Skip a specific code block
+
+     Answer: c. Execute code regardless of whether an exception occurred or not 
+
+ 75. Which data structure uses the FIFO (First In, First Out) principle? 
+    a. Queue
+    b. Stack
+    c. Linked List
+    d. Tree
+
+     Answer: a. Queue 
+
+ 76. What is the primary function of a router in a computer network? 
+    a. Connect devices within a local network
+    b. Block malicious websites
+    c. Forward data between different networks
+    d. Manage printer connections
+
+     Answer: c. Forward data between different networks 
+
+ 77. What is the purpose of the 'chmod' command in Unix/Linux? 
+    a. Change file ownership
+    b. Change file permissions
+    c. Change file extension
+    d. Change file location
+
+     Answer: b. Change file permissions 
+
+ 78. Which of the following is a characteristic of a distributed database? 
+    a. Centralized data storage
+    b. Limited scalability
+    c. High data consistency
+    d. Data is spread across multiple locations
+
+     Answer: d. Data is spread across multiple locations 
+
+ 79. What is the purpose of the 'break' statement in loop structures? 
+    a. End the program
+    b. Skip the next iteration
+    c. Exit the loop prematurely
+    d. Pause program execution
+
+     Answer: c. Exit the loop prematurely 
+
+ 80. Which type of database relationship is represented by a foreign key? 
+    a. One-to-One
+    b. One-to-Many
+    c. Many-to-One
+    d. Many-to-Many
+
+     Answer: d. Many-to-Many 
+ 81. What is the purpose of the 'grep' command in Unix/Linux? 
+    a. Copy files
+    b. Search for patterns in text
+    c. Delete directories
+    d. Rename files
+
+     Answer: b. Search for patterns in text 
+
+ 82. In the context of databases, what is an index used for? 
+    a. Sorting data in ascending order
+    b. Accelerating data retrieval operations
+    c. Encrypting data
+    d. Defining primary keys
+
+     Answer: b. Accelerating data retrieval operations 
+
+ 83. What is the role of a load balancer in a web server environment? 
+    a. Manage email communication
+    b. Distribute incoming network traffic across multiple servers
+    c. Encrypt data transmission
+    d. Monitor disk usage
+
+     Answer: b. Distribute incoming network traffic across multiple servers 
+
+ 84. Which of the following is a characteristic of a cloud computing service? 
+    a. Physical servers located on-site
+    b. Limited scalability
+    c. Self-service provisioning
+    d. High upfront costs
+
+     Answer: c. Self-service provisioning 
+
+ 85. What is the primary purpose of the 'grep' command in Unix/Linux? 
+    a. Copy files
+    b. Search for patterns in text
+    c. Delete directories
+    d. Rename files
+
+     Answer: b. Search for patterns in text 
+
+ 86. What is the significance of the term 'SQL injection' in web development? 
+    a. Database optimization technique
+    b. Secure encryption method
+    c. A security vulnerability where malicious SQL code is injected into queries
+    d. Server-side scripting language
+
+     Answer: c. A security vulnerability where malicious SQL code is injected into queries 
+
+ 87. What does the term "bandwidth" refer to in networking? 
+    a. Data transfer speed
+    b. Physical size of a network
+    c. Number of connected devices
+    d. Memory capacity
+
+     Answer: a. Data transfer speed 
+
+ 88. What is the purpose of a hash function in data security? 
+    a. Encrypting data transmission
+    b. Generating random numbers
+    c. Creating secure passwords
+    d. Mapping data to a fixed-size string of characters
+
+     Answer: d. Mapping data to a fixed-size string of characters 
+
+ 89. What does the term "API" stand for in software development? 
+    a. Application Programming Interface
+    b. Advanced Programming Instruction
+    c. Automated Program Interface
+    d. Application Process Integration
+
+     Answer: a. Application Programming Interface 
+
+ 90. What is the purpose of the 'grep' command in Unix/Linux? 
+    a. Copy files
+    b. Search for patterns in text
+    c. Delete directories
+    d. Rename files
+
+     Answer: b. Search for patterns in text 
+
+ 91. What is the primary purpose of a DNS (Domain Name System)? 
+    a. Encrypt data transmission
+    b. Convert domain names to IP addresses
+    c. Manage email communication
+    d. Control access to websites
+
+     Answer: b. Convert domain names to IP addresses 
+
+ 92. What is the purpose of the 'else' statement in programming? 
+    a. Define a function
+    b. Handle exceptions
+    c. Specify alternative code to be executed
+    d. Create loops
+
+     Answer: c. Specify alternative code to be executed 
+
+ 93. In computer networks, what is the role of an IP address? 
+    a. Identify a device on the network
+    b. Encrypt data transmission
+    c. Manage email communication
+    d. Assign ports to applications
+
+     Answer: a. Identify a device on the network 
+
+ 94. What is the purpose of the 'chmod' command in Unix/Linux? 
+    a. Change file ownership
+    b. Change file permissions
+    c. Change file extension
+    d. Change file location
+
+     Answer: b. Change file permissions 
+
+ 95. Which of the following is a key characteristic of a stack data structure? 
+    a. Random access
+    b. LIFO (Last In, First Out) order
+    c. Fixed size
+    d. Dynamic size
+
+     Answer: b. LIFO (Last In, First Out) order 
+
+ 96. What is the purpose of the 'grep' command in Unix/Linux? 
+    a. Copy files
+    b. Search for patterns in text
+    c. Delete directories
+    d. Rename files
+
+     Answer: b. Search for patterns in text 
+
+ 97. Which of the following is a key characteristic of a switch in networking? 
+    a. Operates at the application layer
+    b. Forwards data based on MAC addresses
+    c. Connects different networks
+    d. Performs routing functions
+
+     Answer: b. Forwards data based on MAC addresses 
+
+ 98. What is the primary function of an HTTP cookie? 
+    a. Store data on the server
+    b. Track user sessions and preferences
+    c. Manage database connections
+    d. Execute server-side code
+
+     Answer: b. Track user sessions and preferences 
+
+ 99. What is the purpose of the 'try...catch' block in exception handling? 
+    a. Define a function
+    b. Handle errors and exceptions
+    c. Create conditional statements
+    d. Optimize code performance
+
+     Answer: b. Handle errors and exceptions 
+
+ 100. In computer graphics, what does the term "GUI" stand for? 
+    a. Graphics Unit Interface
+    b. Graphical User Interface
+    c. General Use Instruction
+    d. Global User Integration
+
+     Answer: b. Graphical User Interface 
+
